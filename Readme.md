@@ -1,4 +1,4 @@
-# GIT CURSO
+# GIT CURSO Atualizado
 
 Este é um repositório teste para ensinar como o git funciona.
 
